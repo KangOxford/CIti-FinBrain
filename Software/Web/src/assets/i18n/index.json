@@ -1,0 +1,15 @@
+[
+  {
+    "id": "zh-CN",
+    "name": "简体中文",
+    "acceptedNavigatorLanguages": ["zh-CN"],
+    "definitionFileName": "cn",
+    "fallback": true
+  },
+  {
+    "id": "en-US",
+    "name": "English",
+    "acceptedNavigatorLanguages": ["en-US"],
+    "definitionFileName": "en"
+  }
+]

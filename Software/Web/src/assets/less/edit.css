@@ -1,0 +1,9 @@
+@media screen and (min-width: 768px) {
+    #content_0_0-button {
+        background-color: rgba(38, 40, 197, 0)
+    }
+
+    #content_0_0:before {
+        /*background: url("../../../../assets/homeBackground.png");*/
+    }
+}

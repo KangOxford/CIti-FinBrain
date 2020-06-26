@@ -1,0 +1,2 @@
+class ProfitBl(object):
+    pass
